@@ -1,0 +1,14 @@
+/home/camper/etiquetaOculta/juego/bin/Debug/net8.0/juego
+/home/camper/etiquetaOculta/juego/bin/Debug/net8.0/juego.deps.json
+/home/camper/etiquetaOculta/juego/bin/Debug/net8.0/juego.runtimeconfig.json
+/home/camper/etiquetaOculta/juego/bin/Debug/net8.0/juego.dll
+/home/camper/etiquetaOculta/juego/bin/Debug/net8.0/juego.pdb
+/home/camper/etiquetaOculta/juego/obj/Debug/net8.0/juego.GeneratedMSBuildEditorConfig.editorconfig
+/home/camper/etiquetaOculta/juego/obj/Debug/net8.0/juego.AssemblyInfoInputs.cache
+/home/camper/etiquetaOculta/juego/obj/Debug/net8.0/juego.AssemblyInfo.cs
+/home/camper/etiquetaOculta/juego/obj/Debug/net8.0/juego.csproj.CoreCompileInputs.cache
+/home/camper/etiquetaOculta/juego/obj/Debug/net8.0/juego.dll
+/home/camper/etiquetaOculta/juego/obj/Debug/net8.0/refint/juego.dll
+/home/camper/etiquetaOculta/juego/obj/Debug/net8.0/juego.pdb
+/home/camper/etiquetaOculta/juego/obj/Debug/net8.0/juego.genruntimeconfig.cache
+/home/camper/etiquetaOculta/juego/obj/Debug/net8.0/ref/juego.dll
